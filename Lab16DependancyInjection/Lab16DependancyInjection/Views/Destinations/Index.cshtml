@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Lab16DependancyInjection.Models.Destinations>
+@{ 
+    Layout = null;
+}
+
+@foreach(var d in Model)
+{
+    <div>
+        <h1>@d.Destination</h1>
+        <h3>@d.ExpectedWeather</h3>
+        <h3>@d.ExpectedTemp&ordm; Farenheit</h3>
+        <p>For the expected weathery, you should pack @d.PantsType, @d.ShirtType, and @d.ShoeType.</p>
+    </div>
+}
