@@ -1,16 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using PackerPlanner.Models;
 
 namespace PackerPlanner.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IRepository _repository;
+
+        public HomeController(IRepository repo) => _repository = repo;
+
         public IActionResult Index()
         {
-            return View();
+            return View(_repository.Destination);
         }
     }
 }

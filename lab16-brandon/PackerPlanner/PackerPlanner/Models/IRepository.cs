@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace PackerPlanner.Models
 {
-    interface IRepository
+    public interface IRepository
     {
         IEnumerable<Destination> Destination { get; }
     }
