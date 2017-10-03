@@ -1,0 +1,11 @@
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\bin\Debug\netcoreapp2.0\lab16miya.deps.json
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\bin\Debug\netcoreapp2.0\lab16miya.runtimeconfig.json
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\bin\Debug\netcoreapp2.0\lab16miya.runtimeconfig.dev.json
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\bin\Debug\netcoreapp2.0\lab16miya.dll
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\obj\Debug\netcoreapp2.0\lab16miya.csprojResolveAssemblyReference.cache
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\obj\Debug\netcoreapp2.0\lab16miya.csproj.CoreCompileInputs.cache
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\obj\Debug\netcoreapp2.0\lab16miya.AssemblyInfoInputs.cache
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\obj\Debug\netcoreapp2.0\lab16miya.AssemblyInfo.cs
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\bin\Debug\netcoreapp2.0\lab16miya.pdb
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\obj\Debug\netcoreapp2.0\lab16miya.dll
+C:\Users\shami\Source\Repos\Lab16-DependencyInjection\lab16miya\lab16miya\obj\Debug\netcoreapp2.0\lab16miya.pdb
