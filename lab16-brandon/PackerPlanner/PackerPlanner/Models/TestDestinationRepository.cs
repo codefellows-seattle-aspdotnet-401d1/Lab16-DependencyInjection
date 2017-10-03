@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace PackerPlanner.Models
 {
@@ -9,9 +6,9 @@ namespace PackerPlanner.Models
     {
         public IEnumerable<Destination> Destination => new List<Destination>
         {
-            new Models.Destination{LocationName = "Hawaii", Country = "USA", RequiredItems = {"Shorts", "Sandals", "Beach Towels", "Sunscreen"}},
-            new Models.Destination{LocationName = "Dublin", Country = "Ireland", RequiredItems = {"Raincoat", "ID", "Castle Guidebook"}},
-            new Models.Destination{LocationName = "Tokyo", Country = "Japan", RequiredItems = {"Clean White Socks", "Umbrella", "Adventurous Appetite"}}
+            new Destination{LocationName = "Hawaii", Country = "USA", RequiredItems = new List<string>{"Shorts", "Sandals", "Beach Towels", "Sunscreen"}},
+            new Destination{LocationName = "Dublin", Country = "Ireland", RequiredItems = new List<string>{"Raincoat", "Identification", "Castle Guidebook"}},
+            new Destination{LocationName = "Tokyo", Country = "Japan", RequiredItems = new List<string>{"Clean White Socks", "Umbrella", "Adventurous Appetite"}}
         };
     }
 }
