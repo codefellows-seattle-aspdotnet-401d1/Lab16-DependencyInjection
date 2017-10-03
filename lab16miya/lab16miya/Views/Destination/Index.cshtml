@@ -1,0 +1,15 @@
+﻿@model IEnumerable<lab16miya.Models.Destination>;
+
+@{
+    //this means not to use a layout
+    Layout = null;
+}
+
+@foreach (var p in Model)
+{
+    <div>
+        <strong>@p.City, @p.Country</strong>
+        <p><em>@p.Attractions</em></p>
+        <p>@p.Population.ToString()</p>
+    </div>
+}

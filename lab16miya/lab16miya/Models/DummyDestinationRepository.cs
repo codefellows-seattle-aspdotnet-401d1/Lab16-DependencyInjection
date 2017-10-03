@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace lab16miya.Models
 {
+    //implementing dependency injection with the repository
     public class DummyDestinationRepository : IDestinationRepository
     {
         public IEnumerable<Destination> Destination => new List<Destination>
