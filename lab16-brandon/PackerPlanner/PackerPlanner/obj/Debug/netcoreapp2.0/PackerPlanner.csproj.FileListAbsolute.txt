@@ -6,3 +6,6 @@ C:\Users\akure\Source\Repos\Lab16-DependencyInjection\lab16-brandon\PackerPlanne
 C:\Users\akure\Source\Repos\Lab16-DependencyInjection\lab16-brandon\PackerPlanner\PackerPlanner\obj\Debug\netcoreapp2.0\PackerPlanner.csproj.CoreCompileInputs.cache
 C:\Users\akure\Source\Repos\Lab16-DependencyInjection\lab16-brandon\PackerPlanner\PackerPlanner\obj\Debug\netcoreapp2.0\PackerPlanner.AssemblyInfoInputs.cache
 C:\Users\akure\Source\Repos\Lab16-DependencyInjection\lab16-brandon\PackerPlanner\PackerPlanner\obj\Debug\netcoreapp2.0\PackerPlanner.AssemblyInfo.cs
+C:\Users\akure\Source\Repos\Lab16-DependencyInjection\lab16-brandon\PackerPlanner\PackerPlanner\bin\Debug\netcoreapp2.0\PackerPlanner.pdb
+C:\Users\akure\Source\Repos\Lab16-DependencyInjection\lab16-brandon\PackerPlanner\PackerPlanner\obj\Debug\netcoreapp2.0\PackerPlanner.dll
+C:\Users\akure\Source\Repos\Lab16-DependencyInjection\lab16-brandon\PackerPlanner\PackerPlanner\obj\Debug\netcoreapp2.0\PackerPlanner.pdb
