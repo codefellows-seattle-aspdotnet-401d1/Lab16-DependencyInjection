@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Lab16Tom.Models.Destinations>
+
+
+@foreach (var d in Model)
+{
+    <div>
+        <h3>@d.Destination</h3>
+        <p>@d.Tops</p>
+        <p>@d.Bottoms</p>
+        <p>@d.Footwear</p>
+        <p>@d.Sunscreen</p>
+    </div>
+}
+
+<h3><a asp-controller="Home" asp-action="Index">Return to Home</a></h3>
