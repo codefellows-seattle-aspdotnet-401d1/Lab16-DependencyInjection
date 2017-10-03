@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\bin\Debug\netcoreapp2.0\Lab16DependancyInjection.deps.json
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\bin\Debug\netcoreapp2.0\Lab16DependancyInjection.runtimeconfig.json
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\bin\Debug\netcoreapp2.0\Lab16DependancyInjection.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\bin\Debug\netcoreapp2.0\Lab16DependancyInjection.dll
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\obj\Debug\netcoreapp2.0\Lab16DependancyInjection.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\obj\Debug\netcoreapp2.0\Lab16DependancyInjection.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\obj\Debug\netcoreapp2.0\Lab16DependancyInjection.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\obj\Debug\netcoreapp2.0\Lab16DependancyInjection.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\bin\Debug\netcoreapp2.0\Lab16DependancyInjection.pdb
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\obj\Debug\netcoreapp2.0\Lab16DependancyInjection.dll
+C:\Users\admin\codefellows\401\lab16DependancyInjection\Lab16DependancyInjection\Lab16DependancyInjection\obj\Debug\netcoreapp2.0\Lab16DependancyInjection.pdb
