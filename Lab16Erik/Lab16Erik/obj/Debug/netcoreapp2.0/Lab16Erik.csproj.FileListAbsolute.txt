@@ -1,0 +1,11 @@
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\bin\Debug\netcoreapp2.0\Lab16Erik.deps.json
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\bin\Debug\netcoreapp2.0\Lab16Erik.runtimeconfig.json
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\bin\Debug\netcoreapp2.0\Lab16Erik.runtimeconfig.dev.json
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\bin\Debug\netcoreapp2.0\Lab16Erik.dll
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\obj\Debug\netcoreapp2.0\Lab16Erik.csprojResolveAssemblyReference.cache
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\obj\Debug\netcoreapp2.0\Lab16Erik.csproj.CoreCompileInputs.cache
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\obj\Debug\netcoreapp2.0\Lab16Erik.AssemblyInfoInputs.cache
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\obj\Debug\netcoreapp2.0\Lab16Erik.AssemblyInfo.cs
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\bin\Debug\netcoreapp2.0\Lab16Erik.pdb
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\obj\Debug\netcoreapp2.0\Lab16Erik.dll
+C:\Users\shop2\source\repos\Lab16-DependencyInjection\Lab16Erik\Lab16Erik\obj\Debug\netcoreapp2.0\Lab16Erik.pdb
