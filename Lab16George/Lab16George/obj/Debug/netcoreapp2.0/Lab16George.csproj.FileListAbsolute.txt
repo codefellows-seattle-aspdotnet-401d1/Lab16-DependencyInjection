@@ -9,3 +9,14 @@ C:\Users\Georg\OneDrive\Documents\GitHub\Lab16-DependencyInjection\Lab16George\L
 C:\Users\Georg\OneDrive\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.AssemblyInfo.cs
 C:\Users\Georg\OneDrive\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.dll
 C:\Users\Georg\OneDrive\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.pdb
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\bin\Debug\netcoreapp2.0\Lab16George.deps.json
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\bin\Debug\netcoreapp2.0\Lab16George.runtimeconfig.json
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\bin\Debug\netcoreapp2.0\Lab16George.runtimeconfig.dev.json
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\bin\Debug\netcoreapp2.0\Lab16George.dll
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\bin\Debug\netcoreapp2.0\Lab16George.pdb
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.AssemblyInfoInputs.cache
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.AssemblyInfo.cs
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.dll
+C:\Users\georg\Documents\GitHub\Lab16-DependencyInjection\Lab16George\Lab16George\obj\Debug\netcoreapp2.0\Lab16George.pdb
