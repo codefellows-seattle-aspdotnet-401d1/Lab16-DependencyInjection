@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Lab16George.Models
 {
     public class FakeDestinationRepository : IDestinationRepository
     {
-        public IEnumerable<Destination> Destination => new List<Destination>
+        public IEnumerable<Destination> Destinations => new List<Destination>
         {
             new Destination { City = "Seattle", Country= "United States", Language= "English", Climate= "Temperate" },
             new Destination { City = "London", Country= "England", Language= "English", Climate= "Temperate" },

@@ -14,7 +14,7 @@ namespace Lab16George.Controllers
 
         public ViewResult Index()
         {
-            return View(_destination.Destination);
+            return View(_destination.Destinations);
         }
     }
 }
