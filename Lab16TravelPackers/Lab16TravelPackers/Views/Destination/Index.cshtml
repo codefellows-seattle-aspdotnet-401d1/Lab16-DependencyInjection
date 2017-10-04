@@ -1,0 +1,18 @@
+﻿@using Lab16TravelPackers.Models;
+
+@model IEnumerable<Lab16TravelPackers.Models.Destination>
+
+    @{ 
+        Layout = null;
+    }
+@foreach (var d in Model)
+{
+    <div>
+        <h3>@d.Location</h3>
+        <p>@d.Weather</p>
+        <p>@d.SwimWear</p>
+        <p>@d.RainGear</p>
+        <p>@d.Shoes</p>
+    </div>
+
+}
