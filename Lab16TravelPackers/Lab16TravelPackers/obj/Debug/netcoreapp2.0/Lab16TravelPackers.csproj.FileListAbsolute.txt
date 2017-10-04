@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\bin\Debug\netcoreapp2.0\Lab16TravelPackers.deps.json
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\bin\Debug\netcoreapp2.0\Lab16TravelPackers.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\bin\Debug\netcoreapp2.0\Lab16TravelPackers.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\bin\Debug\netcoreapp2.0\Lab16TravelPackers.dll
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\obj\Debug\netcoreapp2.0\Lab16TravelPackers.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\obj\Debug\netcoreapp2.0\Lab16TravelPackers.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\obj\Debug\netcoreapp2.0\Lab16TravelPackers.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\obj\Debug\netcoreapp2.0\Lab16TravelPackers.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\bin\Debug\netcoreapp2.0\Lab16TravelPackers.pdb
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\obj\Debug\netcoreapp2.0\Lab16TravelPackers.dll
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\Lab16TravelPackers\obj\Debug\netcoreapp2.0\Lab16TravelPackers.pdb
