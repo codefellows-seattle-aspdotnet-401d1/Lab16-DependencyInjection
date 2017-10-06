@@ -20,8 +20,22 @@ namespace MyUnitTests.tests
 
             //Assert
             Assert.Equal(100m, b.Budget);
+            
 
         }
+        [Fact]
+        public void TestBudgetInRange()
+        {
+            //Arrange
+            var t = new Destination { Budget = 100m };
+
+            //Act
+            t.Budget = 300m; 
+
+            //Assert
+            Assert.InRange(t.Budget, 100m, 500m);
+        }
+
 
         [Fact]
         public void TestRepoChangeInDestinationController()
