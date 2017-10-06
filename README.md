@@ -1,12 +1,17 @@
 
 	- How long did it take you to complete this assignment?
-	1 hour 40 minutes
+	1 hour 
+
 	- What did you struggle with? Why? How did you solve?
-	Just trying to recall the steps we did in the demo yesterday but having the 
-	demo code helped to answer my questions as they arose. Also comming up with destination properties.
+	 Only real barrier I ran into here was figuring out why the Comparer
+	 for the repository test was not working but I was just missing the 
+	 comparer library that was provided. Just not reading the assignment close enough.
+
 	- What did you learn during this assignment?
-	Gained a bit more understanding behind dependency injection. 
+	Tests can be both unbelievably simple to quite complex or at least hard to read. 
+	
     - What resources did you utilize for this assingment?
-	the class 16 demo code. 
+	google and the class 19 demo
+	 
 
 

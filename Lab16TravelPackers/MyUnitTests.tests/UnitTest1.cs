@@ -23,6 +23,7 @@ namespace MyUnitTests.tests
             
 
         }
+
         [Fact]
         public void TestBudgetInRange()
         {
