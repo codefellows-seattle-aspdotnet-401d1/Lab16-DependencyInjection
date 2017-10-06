@@ -1,0 +1,16 @@
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\MyUnitTests.tests.deps.json
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\MyUnitTests.tests.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\MyUnitTests.tests.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\MyUnitTests.tests.dll
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\MyUnitTests.tests.pdb
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\obj\Debug\netcoreapp2.0\MyUnitTests.tests.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\obj\Debug\netcoreapp2.0\MyUnitTests.tests.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\obj\Debug\netcoreapp2.0\MyUnitTests.tests.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\obj\Debug\netcoreapp2.0\MyUnitTests.tests.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\obj\Debug\netcoreapp2.0\MyUnitTests.tests.dll
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\obj\Debug\netcoreapp2.0\MyUnitTests.tests.pdb
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\Lab16TravelPackers.dll
+C:\Users\Duane Rush\source\repos\Lab16-DependencyInjection\Lab16TravelPackers\MyUnitTests.tests\bin\Debug\netcoreapp2.0\Lab16TravelPackers.pdb
