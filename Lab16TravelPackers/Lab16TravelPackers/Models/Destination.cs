@@ -12,6 +12,7 @@ namespace Lab16TravelPackers.Models
         public string Weather { get; set; }
         public string SunBlock { get; set; }
         public string Shoes { get; set; }
+        public decimal Budget { get; set; }
         public string SwimWear { get; set; }
         public string RainGear { get; set; }
         

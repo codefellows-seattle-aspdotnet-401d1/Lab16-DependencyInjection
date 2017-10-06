@@ -10,7 +10,11 @@ namespace Lab16TravelPackers.Controllers
     public class DestinationController : Controller
     {
         
-        private readonly IDestinationRepository _repository;
+        public IDestinationRepository _repository;
+
+        public DestinationController()
+        {
+        }
 
         public DestinationController(IDestinationRepository repo)
         {
